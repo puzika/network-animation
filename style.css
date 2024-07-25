@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+   margin: 0;
+   padding: 0;
+   box-sizing: inherit;
+}
+
+html {
+   font-size: 1.6rem;
+   box-sizing: border-box;
+}
+
+body {
+   font-size: 1.6rem;
+}
+
+canvas {
+   display: block;
+   background-color: black;
+   /* color: rgb(2, 62, 138); */
+}
